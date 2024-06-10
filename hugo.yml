@@ -1,14 +1,14 @@
-baseURL: ''
+baseURL: https://theblackdotmicro.com
 Paginate: 24
 buildFuture: false
 theme: [sansoul]
 params:
-  git_url: ''
-  netlify_name: ''
-  netlify_id: ''
-  hook: NjMwMmJjOWExZjZiNGI2Zjk2YmJjMDVh
-  drive_link: ''
-  drive_mails: ''
+  git_url: https://github.com/seacomoseo/theblackdotmicro.com
+  netlify_name: theblackdotmicro
+  netlify_id: 62fb5f9b-3ae8-4754-b64a-1bdcbd92976c
+  hook: NjY2NmNkZjQ4MjhjNTcxNjc3MTg0YmRlCg==
+  drive_link: https://drive.google.com/file/d/1WJvgdFHCUJHgQmqL_C5tR-hleanADAso
+  drive_mails: micropigmentacioncapilarmurcia@gmail.com, theblackdotmicro@gmail.com
 defaultContentLanguage: es
 disableLanguages: [en,fr]
 languages:

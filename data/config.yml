@@ -1,16 +1,17 @@
-title: SanSoul Hugo Theme EXAMPLE
-description: SanSoul is the Hugo theme website services soul by lorensansol, you can copy and use like you want
+title: The Black Dot Micropigmentación Capilar
+description: ¿Buscas una solución duradera para la caída del cabello? Ofrecemos Micropigmentación Capilar con resultados naturales y personalizados en un entorno acogedor. Primera consulta gratuita. ¡Visítanos!
 logo: logo.png
-legal_name: Nombre Legal de Ejemplo
-legal_dni: 12345678-A
-legal_email: ''
+legal_name: The Black Dot
+legal_dni: ''
+legal_email: theblackdotmicro@gmail.com
 legal_location: ''
 country: España
 location_type:
 - LocalBusiness
 - Organization
 alternate_name:
-- SanSoul
+- The Black Dot
+- The Black Dot - Micropigmentación Capilar
 price_range: €€
 google_analytics: G-7VFYFCC9VQ
 google_site_verification: ''
@@ -35,12 +36,7 @@ custom_code:
     code: ''
     lang: javascript
 social:
-- link: https://www.facebook.com/QuantumFracture
-- link: https://www.instagram.com/quantumfracture/
-- link: https://www.youtube.com/channel/UCbdSYaPD-lr1kW27UJuk8Pw
-- link: https://twitter.com/QuantumFracture
-- link: https://www.linkedin.com/company/quantum-fracture
-- link: https://gitlab.com/lorensansol
-- link: https://github.com/lorensansol
-- link: https://mastersoflol.com/collections/quantumfracture?YTC
+- link: https://www.instagram.com/theblckdotmicro
+- link: https://www.facebook.com/share/VdKstBSoBHMp5dkY/
+- link: https://g.page/r/CT-8wXnJJQLvEBM
 

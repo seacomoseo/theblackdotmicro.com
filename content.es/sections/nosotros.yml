@@ -1,34 +1,24 @@
 title: Nosotros
-subtitle: Lorem ipsum dolor sit amet
-icon: circle-info
+subtitle: sobre the black dot
+icon: circle-user
 rows:
 - type: columns
   design:
     num: 2
   items:
   - order: 2
-    bg: fondo.jpg
+    image: micropigmentacion-capilar-mujer.jpg
   - order: 1
     description: |
-      Lorem ipsum dolor sit amet.
-      Consectetur adipiscing elit.
-      Sed do eiusmod tempor incididunt.
-      Ut labore et dolore magna aliqua.
+      En The Black Dot, nos apasiona ofrecerte la mejor micropigmentación capilar en un entorno cómodo y privado.
 
-      Lorem ipsum dolor sit amet.
-      Consectetur adipiscing elit.
-      Sed do eiusmod tempor incididunt.
-      Ut labore et dolore magna aliqua.
+      Fundada en 2020 por Teresa Peñalver, nuestra clínica utiliza el equipo, tinta y agujas más avanzados para garantizar resultados de primera.
 
-      Lorem ipsum dolor sit amet.
-      Consectetur adipiscing elit.
-      Sed do eiusmod tempor incididunt.
-      Ut labore et dolore magna aliqua.
+      Teresa se formó con la prestigiosa Asociación Española de Micropigmentación en Madrid y tiene la calificación más alta reconocida en la industria. Además, ha perfeccionado sus habilidades con expertos como Matthew Lulo de Scalp Micro USA.
 
-      Lorem ipsum dolor sit amet.
-      Consectetur adipiscing elit.
-      Sed do eiusmod tempor incididunt.
-      Ut labore et dolore magna aliqua.
+      Nos enorgullece ofrecer un trato personalizado y amigable, asegurando que te sientas a gusto en cada etapa del proceso. Estamos siempre disponibles para resolver tus dudas y preocupaciones, ofreciendo un servicio cercano y de calidad.
+
+      En The Black Dot, tu satisfacción es nuestra prioridad, y nos esforzamos por ofrecer resultados que superen tus expectativas.
     more:
       align: left
       align_xl: right

@@ -1,46 +1,40 @@
 title: Contacto
-subtitle: ¿En qué podemos ayudarte?
+subtitle: te asesoramos sin compromiso
 button: link
 size: sm
-icon: paper-plane
+icon: circle-phone
 rows:
 - type: contact
   data:
   - type: schedule
     days: Lunes a Viernes
-    hours: 9:00 - 12:30 y 14:30 - 20:00
+    hours: 9:00 - 14:00 y 16:00 - 20:30
+  - type: schedule
+    days: Sábados
+    hours: 9:00 - 14:00
   - type: br
   - type: phone
-    label: 111 222 333
+    label: 647 56 66 47
+    font_alt: true
   - type: whatsapp
-    label: 444 555 666
+    label: 647 56 66 47
+    font_alt: true
     button: link
-  - type: mail
-    label: info@sansoul.es
-    full: true
-  - type: custom
-    link: https://www.instagram.com/quantumfracture/
-    label: Instagram
-    icon: instagram
-    font_alt: false
-    button: dark
-  - type: custom
-    link: https://www.facebook.com/QuantumFracture
-    label: Facebook
-    icon: facebook-f
-    font_alt: false
-    button: light
+  # - type: mail
+  #   label: theblackdotmicro@gmail.com
+  #   button: light
   - type: address
     active: true
-    name: ''
-    streetAddress: Ronda de Levante, 1
-    postalCode: 30008
+    name: The Black Dot Micropigmentación Capilar
+    streetAddress: Av. Reyes Católicos, 15
+    postalCode: '30009'
     addressLocality: Murcia
     addressRegion: Murcia
     addressCountry: España
-    coordinates: '{"type":"Point","coordinates":[-1.1306520,37.9922180]}'
+    coordinates: '{"type":"Point","coordinates":[-1.1466972,37.9982822]}'
+    button: light
   form:
-    fill_inputs: true
+    fill_inputs: false
     items:
     - type: text
       name: Nombre
@@ -55,5 +49,5 @@ rows:
       required: true
   map:
     active: true
-    link: https://g.page/webmurcia
+    link: https://g.page/r/CT-8wXnJJQLvEBM
     iframe: ''

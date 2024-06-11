@@ -1,16 +1,198 @@
 title: FAQ
-subtitle: Preguntas Frecuentes
-size: md
+subtitle: preguntas frecuentes
+size: sm
 icon: circle-question
 rows:
 - type: collapsible
+  design:
+    font_alt: true
   items:
-  - title: ¿Una pregunta de ejemplo?
+  - title: ¿Qué es la micropigmentación capilar?
     description: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-  - title: ¿Otra pregunta de ejemplo?
+      La micropigmentación del cuero cabelludo es una forma especializada de tatuaje médico.
+
+      Con una aguja muy pequeña, se añaden micropuntos de pigmento en el cuero cabelludo para reproducir el aspecto de los folículos pilosos reales.
+
+      Después de añadir miles de estos puntos en un proceso de capas, se crea un aspecto de "barba incipiente" que camufla la calvicie de forma realista.
+  - title: ¿La micropigmentación capilar es adecuada para mí?
     description: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-  - title: ¿Otra pregunta más de ejemplo?
+      La micropigmentación capilar es perfecta para personas calvas que prefieren llevar el pelo corto.
+
+      En el caso de las personas que tienen más pelo pero que sufren un adelgazamiento, puede utilizarse para dar la apariencia de mayor volumen (esto se conoce como micropigmentación capilar por densidad, ya que la tinta se añade entre el pelo).
+
+      La micropigmentación capilar también puede utilizarse alrededor de la línea de nacimiento del cabello en personas con entradas para añadir volumen.
+
+      También puede utilizarse para camuflar cicatrices en el cuero cabelludo o disimular cicatrices de trasplantes capilares.
+  - title: ¿El tratamiento es doloroso?
     description: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      La aguja utilizada durante el tratamiento es diminuta y penetra justo debajo de la superficie del cuero cabelludo.
+
+      La mayoría de los clientes describen todo el proceso como relativamente indoloro.
+
+      Ciertas zonas alrededor de las sienes o la línea del cabello pueden ser un poco más sensibles en algunas personas.
+
+      Los clientes que se han hecho tatuajes corporales con regularidad describen la sensación como mucho menos dolorosa y similar a un rasguño sordo o a depilarse las cejas.
+
+      Si le preocupa, puede tomar analgésicos unas horas antes.
+  - title: ¿La tinta se volverá azul/verde como un tatuaje corporal?
+    description: |
+      Aunque la micropigmentación capilar suele denominarse tatuaje del cuero cabelludo, el equipo, la técnica, las agujas y la tinta utilizados son completamente diferentes.
+
+      En primer lugar, la aguja es mucho más pequeña.
+
+      El tatuaje corporal funciona trazando líneas en la piel y la tinta se deposita en la capa más profunda de la dermis.
+
+      En esta capa más profunda de la piel, la tinta puede extenderse más y cambiar de color.
+
+      Además, queda fijada, por lo que los tatuajes corporales son permanentes.
+
+      En la micropigmentación capilar, los puntos de tinta se depositan en la capa superior de la dermis, donde se mantienen de forma compacta y, por tanto, no pueden cambiar de color.
+
+      Son duraderos pero no permanentes y se aclaran con el tiempo.
+
+      En segundo lugar, el pigmento utilizado en la micropigmentación del cuero cabelludo es completamente diferente al de la tinta de los tatuajes corporales y está compuesto por ingredientes más naturales, por lo que las reacciones alérgicas son poco frecuentes.
+  - title: Me han operado de transplante capilar y estoy interesado en hacerme una micropigmentación capilar para engrosarlo. ¿Cuánto tiempo tengo que esperar?
+    description: |
+      6 meses mínimo
+  - title: ¿Daña la micropigmentación capilar el cabello que ya tengo?
+    description: |
+      Ni un ápice.
+
+      La tinta colocada en el cuero cabelludo no altera ni afecta en modo alguno a los folículos pilosos existentes.
+  - title: ¿Cuánto dura el tratamiento?
+    description: |
+      Cada tratamiento dura de 3 a 5 sesiones.
+
+      En la primera sesión, se aplican puntos de tinta en toda la zona calva y se entinta la nueva línea del cabello.
+
+      Los puntos se espacian un poco más y se elige el tono de tinta más claro para que se mezcle con el cabello existente.
+
+      Esta sesión es lo que se llama una sesión de plantilla y es donde nosotros comprobamos cómo el cuero cabelludo toma la tinta y podemos apreciar el tipo de piel.
+
+      Tras una semana de cicatrización, puede tener lugar la segunda sesión, en la que comienza el proceso de estratificación.
+
+      Los puntos se acercan unos a otros, se puede utilizar un tono de tinta más oscuro y se puede rebajar y difuminar el nacimiento del pelo.
+
+      Las sesiones 3,4 y 5 son las de acabado, en las que se retocan las zonas rebeldes y se perfecciona la mezcla con el cabello existente.
+
+      Las sesiones 1 y 2 son las más largas y suelen durar hasta 3/5 horas
+  - title: ¿Cuál es el proceso de postratamiento?
+    description: |
+      Durante el tratamiento se le darán todos los consejos de postratamiento.
+
+      En resumen, los cuidados posteriores a corto plazo consisten en mantener el cuero cabelludo seco y sin productos químicos durante 3 días después de cada sesión.
+
+      La sudoración ligera, si es inevitable, está bien, pero no se aconseja ninguna actividad que provoque sudoración intensa durante este periodo de cicatrización.
+
+      Durante las sesiones y hasta un mes después de la última, debe tener cuidado con la exposición al cloro/sal marina y al sol intenso.
+
+      Después de este periodo, los cuidados a largo plazo son sencillos: proteja el tratamiento con un FPS alto cuando esté al sol e hidrate regularmente el cuero cabelludo.
+  - title: Siempre he sido calvo, ¿La gente verá de repente una diferencia drástica y sabrá que me he hecho un tatuaje?
+    description: |
+      Cuando la realiza un artista experimentado y con equipos de alta calidad, el aspecto de la micropigmentación capilar es natural y sutil.
+
+      Es posible que le digan: "No me había dado cuenta de que te crecía el pelo".
+
+      Como el tratamiento se realiza en 3-4 sesiones y se va aumentando gradualmente, se puede ajustar la profundidad y la densidad del color.
+  - title: ¿Cuánto durará mi tratamiento?
+    description: |
+      Con una buena protección solar, su tratamiento durará un mínimo de 2 años antes de empezar a aclararse gradualmente.
+
+      Cada persona es diferente y algunas esperan 4/5 años antes de sentir la necesidad de una sesión de renovación.
+
+      Otras prefieren que su tratamiento tenga siempre un aspecto nítido y optan por sesiones de renovación periódicas cada 2 años.
+
+      Una sesión de renovación es una sola sesión y cuesta un tercio del precio del tratamiento original.
+  - title: Me he hecho una micropigmentación del cuero cabelludo con otra empresa pero estoy interesado en una sesión de repaso/refresco con the black dot
+    description: |
+      Las sesiones de actualización con The Black Dot consisten en una sesión completa en la que toda la zona tratada anteriormente se cubre con un tono de tinta ligeramente más oscuro para que su tratamiento tenga un aspecto nítido y tan bueno como recién hecho de nuevo.
+
+      No importa si su tratamiento inicial fue realizado por The Black Dot o por otro proveedor.
+
+      Si se realiza con nosotros el precio es aproximadamente un tercio del coste original.
+
+      Dependiendo del nivel de desvanecimiento con otro proveedor la sesión puede ser ligeramente superior.
+
+      Enviar fotos claras es la mejor manera de obtener una estimación precisa del precio.
+  - title: ¿¡Cómo voy a decidir qué tipo de línea de cabello tener ya que ha pasado tanto tiempo desde que tuve una!?
+    description: |
+      No se preocupe.
+
+      The Black Dot hablará contigo largo y tendido en la primera sesión sobre el mejor estilo de nacimiento del cabello para ti.
+
+      Para ello, tendremos en cuenta su edad, etnia y forma de la cara.
+
+      En general, su nueva línea de nacimiento del cabello debe ser lo más natural posible y complementar la forma de su cara.
+
+      En la mayoría de los casos, basta con levantar las cejas para saber dónde estaba la línea de implantación original.
+
+      Por lo general, las personas de cuarenta, cincuenta y sesenta años prefieren un aspecto más retraído gradualmente, mientras que las de veinte y treinta pueden ir un poco más rectas.
+
+      También puede ser útil mirar fotos antiguas de cuando tenía pelo.
+  - title: Estoy muy interesado en realizarme una micropigmentación capilar con the black dot. ¿Cuál es el siguiente paso?
+    description: |
+      Hay varias formas de ponerse en contacto.
+
+      Puede hacerlo a través del formulario de contacto al final de la página o directamente por teléfono o Whatsapp (consulte la página de contacto para más detalles).
+
+      El primer paso es enviar unas fotos claras de su situación actual de pérdida de cabello y a partir de ahí le aconsejaremos el mejor tipo de tratamiento y le daremos un presupuesto.
+
+      Alternativamente, puede ponerse en contacto para una charla sin compromiso sobre cualquier detalle con nosotros sin ningún tipo de presión para reservar.
+
+      También se pueden concertar consultas cara a cara o por videoconferencia.
+
+      Después de su consulta inicial si usted es feliz y quiere continuar un deposito será requerido.
+  - title: Me preocupa ser alérgico al pigmento/tinta
+    description: |
+      En primer lugar, la tinta/pigmento utilizado por The Black Dot es uno de los mejores del mercado.
+
+      A diferencia de la tinta de tatuaje normal, los ingredientes son predominantemente vegetales y nada agresivos, por lo que raramente se producen reacciones alérgicas.
+
+      Sin embargo, si usted está preocupado una prueba de alergia se puede realizar 24-48 horas antes de su primera sesión.
+  - title: Soy mujer y tengo el pelo fino, ¿La micropigmentación capilar es adecuada para mí?
+    description: |
+      Por supuesto que sí.
+
+      La calvicie de patrón femenino es común y puede estar relacionada con la edad o simplemente ser hormonal.
+
+      La micropigmentación del cuero cabelludo ofrece resultados sorprendentes cuando se utiliza entre cabellos debilitados, aportando densidad y volumen adicionales.
+
+
+  - title: ¿Qué ocurrirá en mi primera sesión?
+    description: |
+      Usted y Teresa concretaran qué línea de cabello es la más adecuada para usted y esto se marcará con un lápiz.
+
+      Cuando ambos estén satisfechos, comenzará el tratamiento.
+
+      Normalmente se trabaja primero en la coronilla del cuero cabelludo para que Teresa pueda ver cómo se adapta su piel al tono de tinta elegido.
+
+      A continuación, se entinta la zona media y, por último, se trabaja el nacimiento del pelo y las zonas delanteras del cuero cabelludo.
+
+      Antes de irse, se le explicará cómo cuidar el tratamiento.
+
+      Si es necesario, puede tomar un descanso.
+  - title: ¿Por qué debo elegir the black dot para realizar mi micropigmentación capilar?
+    description: |
+      The Black Dot utiliza el mejor equipo / tinta y agujas en la industria de MC y su tratamiento se realizará desde la privacidad de nuestra encantadora clínica.
+
+      The Black Dot fue fundada en 2020 por Teresa Peñalver.
+
+      En cuanto a los antecedentes profesionales de Teresa ella fue entrenada originalmente por la prestigiosa Asociación española de Micropigmentación en Madrid y tiene la calificación de nivel 4 en micropigmentación capilar (la calificación más alta y única reconocida por el gobierno en la industria).
+
+      Desde entonces, ha completado clases magistrales especializadas en MC con Matthew Lulo de Scalp Micro Usa.
+
+      Personalmente.
+
+      Teresa se enorgullece de tratar a cada cliente de manera personalizada, amistosa, realista y accesible, esto significa que usted se sentirá inmediatamente a gusto y completamente atendido durante cada paso del proceso.
+
+      The Black Dot se enorgullece de estar disponible cualquier día de la semana para las preguntas o preocupaciones de sus clientes - su servicio es personal
+  - title: ¿Cuánto tiempo tengo que esperar entre una sesión y otra?
+    description: |
+      Se requiere un mínimo de 7 días de cicatrización.
+  - title: Tengo unas vacaciones, ¿Afectarán a mi tratamiento?
+    description: |
+      Durante sus sesiones e idealmente un mes después de su última sesión, su tratamiento necesita estar completamente cubierto cuando esté bajo el sol y del cloro/sal marina.
+
+      Si puede estar atento y llevar un sombrero en todo momento y no exponer la zona al cloro/sal marina, entonces el tratamiento es posible durante este periodo; sin embargo, por favor, comente sus planes de vacaciones en detalle con Teresa.
+
+      Alternativamente, puede ser mejor comenzar sus sesiones a su regreso.

@@ -1,0 +1,12 @@
+title: Efecto Densidad
+rows:
+- type: gallery
+  design:
+    num: 1
+    alt: true
+    gap: true
+    button: hide
+  images:
+  - efecto-densidad/01.jpg
+  - efecto-densidad/02.jpg
+  - efecto-densidad/03.jpg

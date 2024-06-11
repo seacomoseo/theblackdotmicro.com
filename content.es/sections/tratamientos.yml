@@ -1,0 +1,65 @@
+anchor: Tratamientos de Micropigmentación Capilar
+id: tratamientos
+title: Tratamientos
+subtitle: servicios que te ofrecemos
+icon: pen-circle
+
+# rows:
+# - type: columns
+#   design:
+#     hide_shadow: true
+#     underline: true
+#   items:
+#   - title: Efecto Densidad
+#     description: |
+#       Los tratamientos de densidad son perfectos para hombres que aún tienen pelo pero que se está debilitando en algunas zonas. La tinta se añade estratégicamente entre el pelo para que las zonas con poco pelo sean menos visibles y parezca que tienen más volumen. Nota: Los tratamientos de densidad sólo son adecuados si tiene suficiente pelo para cubrir la tinta; de lo contrario, se recomienda recortar el pelo restante y realizar un tratamiento de densidad capilar completo.
+#     link: '#efecto-densidad'
+#     image: efecto-densidad/01.jpg
+#   - title: Micropigmentación Femenina
+#     description: |
+#       La caída del cabello en la mujer puede ser una experiencia muy emotiva. Suele estar relacionada con la edad y comienza desde la raya hacia fuera o alrededor de las sienes. Otras causas son hormonales, como el embarazo y el estrés. La micropigmentación del cuero cabelludo disimula la caída del cabello añadiendo tinta estratégicamente entre el pelo. Esto da la ilusión de espesor - similar a un spray de raíz, pero de larga duración. El crecimiento futuro del cabello no se ve afectado en modo alguno y la coloración y el peinado pueden continuar con normalidad.
+#     link: '#micropigmentacion-femenina'
+#     image: micropigmentacion-femenina/01.jpg
+
+rows:
+- type: columns
+  design:
+    num: 2
+    hide_shadow: true
+    underline: true
+    align: left
+    align_y: top
+    gap: 3
+    label: Más fotos
+    licon: aperture
+  items:
+  - order: 1
+    image: efecto-densidad/01.jpg
+  - order: 2
+    title: Efecto Densidad
+    description: |
+      Los tratamientos de densidad son perfectos para hombres que aún tienen pelo pero que se está debilitando en algunas zonas.
+
+      La tinta se añade estratégicamente entre el pelo para que las zonas con poco pelo sean menos visibles y parezca que tienen más volumen.
+
+      Nota: Los tratamientos de densidad sólo son adecuados si tiene suficiente pelo para cubrir la tinta; de lo contrario, se recomienda recortar el pelo restante y realizar un tratamiento de densidad capilar completo.
+    link: '#efecto-densidad'
+  - order: 4
+    image: micropigmentacion-femenina/01.jpg
+  - order: 3
+    title: Micropigmentación Femenina
+    description: |
+      La caída del cabello en la mujer puede ser una experiencia muy emotiva.
+
+      Suele estar relacionada con la edad y comienza desde la raya hacia fuera o alrededor de las sienes.
+
+      Otras causas son hormonales, como el embarazo y el estrés.
+
+      La micropigmentación del cuero cabelludo disimula la caída del cabello añadiendo tinta estratégicamente entre el pelo.
+
+      Esto da la ilusión de espesor - similar a un spray de raíz, pero de larga duración.
+
+      El crecimiento futuro del cabello no se ve afectado en modo alguno y la coloración y el peinado pueden continuar con normalidad.
+    link: '#micropigmentacion-femenina'
+    more:
+      align_xl: right

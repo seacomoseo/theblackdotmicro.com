@@ -1,28 +1,76 @@
-// Header Animations
+// Font title lowercase
+h1, h2, h3, h4, h5, h6,
+strong,
+.strong,
+.button--font-alt:not(.button, button) > i,
+dt,
+sup,
+sub,
+legend,
+button > i,
+.button > i,
+.data__item,
+.price {
+  text-transform: lowercase;
+}
 
-@keyframes logo-drop {
-  0% {
-    transform: scale(3);
-    opacity: 0;
-  }
-  100% {
-    transform: scale(1);
-    opacity: 1;
+// Underline
+.underline:after {
+  width: .5rem;
+  height: .5rem;
+  border-radius: 100%;
+  box-shadow: 1rem 0 $grey, -1rem 0 $grey;
+}
+.align-left,
+.step__content {
+  .underline:after {
+    margin-left: 1rem;
   }
 }
-#body-inicio #header {
-  .image {
-    path {
-      fill: var(--text);
+@media (min-width: 1200px) {
+  .align--xl-right {
+    .underline:after {
+        margin-right: 1rem;
+        margin-left: auto;
     }
-    transform-origin: center;
-    animation: logo-drop 1s 0s both;
+  }
+}
+@media (min-width: 800px) {
+  .step:nth-child(2n+1) .step__content {
+    .underline:after {
+        margin-left: auto;
+        margin-right: 1rem;
+    }
+  }
+}
+.section__title--icon-bottom .section__icon {
+  gap: .5rem;
+  &:before,
+  &:after {
+    width: .5rem;
+    height: .5rem;
+    border-radius: 100%;
+    background-color: $grey;
+  }
+}
+
+// Header Animations
+
+#body-inicio #header {
+  // .image {
+  //   path {
+  //     fill: var(--text);
+  //   }
+  //   transform-origin: center;
+  //   animation: logo-drop 1s 0s both;
+  // }
+  .image__inner {
+    overflow: visible;
   }
   @mixin show-from($delay) {
-    animation: show-from .5s (.5 + .25s * $delay) both;
+    animation: logo-drop .5s (1.25 + .25s * $delay) both;
   }
-  .section__title {       @include show-from(1); }
-  .subtitle {             @include show-from(2); }
-  .description p {        @include show-from(3); }
-  .description .buttons { @include show-from(4); }
+  .column--item-1 .description p {        @include show-from(1); }
+  .column--item-1 .description .buttons { @include show-from(2); }
+  .column--item-2 {                       @include show-from(3); }
 }

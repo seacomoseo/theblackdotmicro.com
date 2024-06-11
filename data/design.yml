@@ -5,20 +5,20 @@ icons:
 fonts:
   google: true
   base:
-    family: Montserrat
+    family: Noto Sans
     weight: 400
     strong: 0
     italic: false
     line-height: 1.25
   cursive:
-    family: Dancing Script
+    family: ZCOOL QingKe HuangYou
     weight: 400
     strong: 0
     italic: false
     line-height: 1.25
     top: 0
   title:
-    family: Montserrat
+    family: EFCO Brookshire
     weight: 800
     strong: 0
     italic: false
@@ -27,28 +27,28 @@ fonts:
   blockquote_cursive: true
 colors:
   main:
-    color: '#bdd5ea'
+    color: '#282525'
     light: '#fff'
     dark: '#fff'
-    contrast: text
+    contrast: all
   alt:
     color: '#fff'
     light: '#fff'
     dark: '#fff'
     contrast: all
   link:
-    color: '#fe5f55'
+    color: '#fff'
     light: '#fff'
     dark: '#fff'
-    contrast: text
+    contrast: all
   base:
     white: '#fff'
-    light: '#eee'
+    light: '#eceef1'
     grey: '#767676'
     dark: '#282525'
     black: '#000'
 rounded:
-  radius: 0.33
+  radius: 1.33
   chamfer: false
 buttons:
   sides_round: false
@@ -66,6 +66,6 @@ lightbox_overlay:
   opacity: 0.8
   color: black
 performance:
-  showup: true
+  showup: false
   parallax: true
   srcsetx2: true

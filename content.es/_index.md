@@ -1,21 +1,22 @@
 ---
 title: Inicio
-title_seo: Tema SanSoul de Hugo
+title_seo: ᐅ The Black Dot - Micropigmentación Capilar en Murcia
 slug: inicio
-description: llll➤ SanSoul es un tema de Hugo con alma para webs de servicios ✅ por lorensansol.
+description: l➤ ¿Buscas una solución duradera para la caída del cabello? ✅ Tratamientos personalizados y resultados naturales. Primera consulta gratuita. ¡Visítanos!
 image: fondo.jpg
 draft: false
 noindex: false
 translationKey: home
 sections:
 - file: header
-- file: nosotros
-- file: servicios
+- file: que-es
+- file: tratamientos
   modals:
-  - ejemplo
+  - efecto-densidad
+  - micropigmentacion-femenina
 - file: proceso
-- file: fotos
-- file: noticias
+- file: nosotros
+# - file: fotos
 - file: faq
 - file: resenas
 - file: contacto

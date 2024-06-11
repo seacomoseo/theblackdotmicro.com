@@ -1,26 +1,48 @@
 title: Proceso
-subtitle: ¿Qué pasos seguimos?
-icon: shoe-prints
+subtitle: pasos que seguimos
+icon: circle-check
 rows:
 - type: steps
+  design:
+    underline: true
   items:
-  - title: Lorem ipsum
-    subtitle: Dolor sit amet
-    icon: star
+  - icon: comments
+    title: Consulta Inicial
     description: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  - title: Lorem ipsum
-    subtitle: Dolor sit amet
-    icon: star
+      Esto se puede hacer por teléfono, vía whatsapp, videollamada o en persona.
+
+      Sea cual sea la forma que elija para contactar con nosotros, le pediremos ver su cuero cabelludo/pelo actual (si envía fotos, deberán ser claras).
+
+      Le aconsejaremos sobre el tipo de tratamiento más adecuado para usted y le daremos un presupuesto.
+
+      Una vez respondidas todas sus preguntas sobre el tratamiento y si está de acuerdo en seguir adelante, se le citará para su primera sesión (se requiere un pequeño depósito para asegurar su cita).
+
+      A continuación, se le enviará un formulario de consentimiento médico para que lo rellene antes de la primera sesión.
+
+      El tratamiento durará de 3 a 4 sesiones en total, con un mínimo de 7 días de cicatrización entre ellas.
+  - icon: pen-ruler
+    title: Primera Sesión
     description: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  - title: Lorem ipsum
-    subtitle: Dolor sit amet
-    icon: star
+      Diseñaremos su nueva línea de cabello teniendo en cuenta su edad, etnia y forma de la cabeza.
+
+      Cuando ambos estéis satisfechos con el estilo, se fijará de forma permanente con tinta.
+
+      Después de la línea del cabello, se cubrirá el resto de las zonas calvas.
+
+      La primera sesión es lo que llamamos una sesión de plantilla para ver cómo se adapta su piel a la tinta y el estado de su cuero cabelludo.
+
+      Se utilizan los tonos de tinta más claros y el aspecto será el de una silueta ligera.
+
+      La MC consiste en aplicar la tinta poco a poco para crear el tatuaje capilar más natural y realista, así que no te preocupes si en la primera sesión el aspecto es claro.
+
+      Se le darán instrucciones para el cuidado posterior antes de su próxima sesión.
+  - icon: wand-magic-sparkles
+    title: 2ª, 3ª y 4ª Sesión
     description: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  - title: Lorem ipsum
-    subtitle: Dolor sit amet
-    icon: star
-    description: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      En las sesiones 2 y 3 es cuando el tratamiento empieza a dar sus frutos.
+
+      El color y la profundidad del tratamiento se incrementarán mediante un proceso de capas.
+
+      La línea de nacimiento del cabello puede ajustarse o rebajarse si es necesario y se trabajará más en la mezcla con el cabello existente.
+
+      No todo el mundo necesita la sesión 4, pero normalmente se trata de una sesión más corta para retocar las zonas que necesitan un poco más de trabajo.

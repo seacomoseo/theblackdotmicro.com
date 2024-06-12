@@ -14,6 +14,9 @@ rows:
     color: white
     hide_shadow: true
     underline: true
+    label: Pide presupuesto
+    link: '#contacto'
+    licon: none
   items:
   - icon: circle-half-stroke
     title: Precio promedio

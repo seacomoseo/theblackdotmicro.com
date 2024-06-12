@@ -9,8 +9,6 @@
 ### Local
 
 - Design
-  - REDIRECTS
-    - `assets/redirects.md`
   - Try in Safari and Firefox
 
 

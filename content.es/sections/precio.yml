@@ -1,0 +1,23 @@
+anchor: Precio de Micropigmentación Capilar
+id: precio
+title: Precio
+subtitle: primera consulta gratuita
+icon: circle-dollar
+description: |
+  El precio de un tratamiento depende de la zona, cantidad e intensidad
+more:
+  align: center
+rows:
+- type: columns
+  design:
+    num: 4
+    color: white
+    hide_shadow: true
+    underline: true
+  items:
+  - icon: circle-half-stroke
+    title: Precio promedio
+    price: 500 €
+  - icon: circle-quarters
+    title: Rango de precios
+    price: 350 - 3.500 €

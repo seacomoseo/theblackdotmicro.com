@@ -1,0 +1,12 @@
+id: mujeres
+title: Micropigmentación para Mujeres
+rows:
+- type: gallery
+  design:
+    num: 1
+    alt: true
+    gap: true
+    button: hide
+  images:
+  - micropigmentacion-mujeres/01.jpg
+  - micropigmentacion-mujeres/02.jpg

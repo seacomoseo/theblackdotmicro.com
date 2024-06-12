@@ -1,3 +1,5 @@
+anchor: 'Contacto: Clínica de Micropigmentación Capilar cerca de mi'
+id: Contacto
 title: Contacto
 subtitle: te asesoramos sin compromiso
 button: link
@@ -19,10 +21,6 @@ rows:
   - type: whatsapp
     label: 647 56 66 47
     font_alt: true
-    button: link
-  # - type: mail
-  #   label: theblackdotmicro@gmail.com
-  #   button: light
   - type: address
     active: true
     name: The Black Dot Micropigmentación Capilar

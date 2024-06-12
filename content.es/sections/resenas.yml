@@ -5,7 +5,7 @@ rows:
 - type: reviews
   design:
     num: 3
-    color: white
+    color: light
     slider: true
     interval: 8
     hide_shadow: true

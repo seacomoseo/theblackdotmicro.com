@@ -1,0 +1,13 @@
+id: hombres
+title: Micropigmentación para Hombres Efecto Densidad
+rows:
+- type: gallery
+  design:
+    num: 1
+    alt: true
+    gap: true
+    button: hide
+  images:
+  - micropigmentacion-hombres-efecto-densidad/01.jpg
+  - micropigmentacion-hombres-efecto-densidad/02.jpg
+  - micropigmentacion-hombres-efecto-densidad/03.jpg

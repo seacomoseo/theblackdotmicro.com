@@ -1,8 +1,8 @@
 ---
 title: Inicio
-title_seo: ᐅ The Black Dot - Micropigmentación Capilar en Murcia
+title_seo: ▷ The Black Dot ◁ Micropigmentación Capilar en Murcia
 slug: inicio
-description: l➤ Solución duradera para la caída del pelo de la cabeza ✅ Tratamientos personalizados y resultados naturales a buen precio. ¡Primera consulta gratuita!
+description: llll➤ Solución duradera para la caída del pelo de la cabeza ✅ Tratamientos personalizados y resultados naturales a buen precio. ¡1ª consulta gratuita!
 image: logo.png
 draft: false
 noindex: false

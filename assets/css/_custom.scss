@@ -54,21 +54,33 @@ button > i,
   }
 }
 
-// Header Animations
-
+// Header
+@keyframes logo-intro {
+  0%,
+  75% {
+    transform: translate(var(--logo-x, 0em), calc(50vh - 50% - var(--logo-y, 6em))) scale(var(--logo-z, 2.5));
+  }
+}
 #body-inicio #header {
-  // .image {
-  //   path {
-  //     fill: var(--text);
-  //   }
-  //   transform-origin: center;
-  //   animation: logo-drop 1s 0s both;
-  // }
-  .image__inner {
-    overflow: visible;
+  .column--item-1 {
+    .image {
+      animation: logo-intro 2.5s 0s both;
+      @media (min-width: $screen-xl) {
+        --logo-x: 13em;
+        --logo-y: 11em;
+        --logo-z: 3.8;
+      }
+    }
+    // .image,
+    // .image__inner {
+    //   border-radius: 0;
+    // }
+    .image__inner {
+      overflow: visible;
+    }
   }
   @mixin show-from($delay) {
-    animation: logo-drop .5s (1.25 + .25s * $delay) both;
+    animation: logo-drop .5s (2 + .25s * $delay) both;
   }
   .column--item-1 .description p {        @include show-from(1); }
   .column--item-1 .description .buttons { @include show-from(2); }
